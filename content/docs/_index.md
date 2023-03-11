@@ -1,14 +1,9 @@
 ---
-title: "Document"
-date: 2023-03-11T23:15:47+09:00
+title: "Docs"
+date: 2023-03-11T23:31:34+09:00
 draft: true
 ---
 
----
-title: "Metro Doc"
-date: 2023-03-11T17:05:34+09:00
-draft: true
----
 
 # 型
 強い静的型付けです。型安全でもある、多分。
